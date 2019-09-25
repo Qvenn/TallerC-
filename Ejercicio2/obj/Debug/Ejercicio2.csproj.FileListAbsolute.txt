@@ -1,0 +1,6 @@
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio2\obj\Debug\Ejercicio2.pdb

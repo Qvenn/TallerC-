@@ -1,0 +1,6 @@
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio14\obj\Debug\Ejercicio14.csprojResolveAssemblyReference.cache
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio14\bin\Debug\Ejercicio14.exe.config
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio14\bin\Debug\Ejercicio14.exe
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio14\bin\Debug\Ejercicio14.pdb
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio14\obj\Debug\Ejercicio14.exe
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio14\obj\Debug\Ejercicio14.pdb

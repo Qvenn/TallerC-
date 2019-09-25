@@ -1,0 +1,6 @@
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio4\obj\Debug\Ejercicio4.csprojResolveAssemblyReference.cache
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\GGIZI\Documents\SharpDevelop Projects\Ejercicios\Ejercicio4\obj\Debug\Ejercicio4.pdb
